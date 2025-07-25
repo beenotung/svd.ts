@@ -1,6 +1,6 @@
 {
   "name": "svd.ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "commonjs",
   "description": "A lightweight, isomorphic TypeScript implementation for computing Singular Value Decomposition (SVD) of matrix in Node.js and browsers.",
   "keywords": [

@@ -2,10 +2,14 @@
   "name": "svd.ts",
   "version": "0.0.0",
   "type": "commonjs",
-  "description": "",
+  "description": "A lightweight, isomorphic TypeScript implementation for computing Singular Value Decomposition (SVD) of matrix in Node.js and browsers.",
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Beeno Tung",
+    "email": "aabbcc1241@yahoo.com.hk",
+    "url": "https://beeno-tung.surge.sh"
+  },
+  "license": "BSD-2-Clause",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
